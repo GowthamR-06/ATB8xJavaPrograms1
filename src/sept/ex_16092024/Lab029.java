@@ -5,5 +5,7 @@ public class Lab029 {
         int a =10;
         //a is a variable or a operant
         // = is operator
+
+        System.out.println(a);
     }
 }
